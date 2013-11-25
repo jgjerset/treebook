@@ -3,5 +3,9 @@ jon:
   last_name: "Gjerset"
   email: "jon@gjerset.com"
   profile_name: "jgjerset"
-#  password: "password"
- # password_confirmation: "password"
+
+mari:
+  first_name: "Mari"
+  last_name: "Gjerset"
+  email: "mari@gjerset.com"
+  profile_name: "mgjerset"

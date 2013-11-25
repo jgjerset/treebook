@@ -9,3 +9,8 @@ two:
 
   content: MyText
   user: jon
+
+three:
+
+  content: "my content"
+  user: mari
