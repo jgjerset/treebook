@@ -9,3 +9,10 @@ mari:
   last_name: "Gjerset"
   email: "mari@gjerset.com"
   profile_name: "mgjerset"
+
+
+bill:
+  first_name: "Bill"
+  last_name: "Gjerset"
+  email: "bill@gjerset.com"
+  profile_name: "bgjerset"

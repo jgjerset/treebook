@@ -5,7 +5,11 @@ gem 'rails', '4.0.1'
 
 # Use sqlite3 as the database for Active Record
 
-
+group :test do
+   gem 'shoulda'
+   gem "shoulda-matchers"
+   gem "shoulda-context"
+end
 
 group :development, :test do
    gem 'sqlite3'
